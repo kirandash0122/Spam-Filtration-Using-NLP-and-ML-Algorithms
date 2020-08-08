@@ -14,3 +14,5 @@ model and Gave an accuracy of 98.55 % on the test
 dataset. whereas Naive Bayes gave an accuracy of
 97.93 % using 5-Fold Cross Validation.
 i saved the SVM model to a pickle file.
+previously got accuracy of 97.83% for SVM model and 96.03% for Naive Bayes model.
+But got better results after some modifications.
